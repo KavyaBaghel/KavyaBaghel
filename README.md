@@ -11,7 +11,7 @@
 - 🤖 **AI/ML Student** — BCA specializing in Artificial Intelligence & Machine Learning at Sharda University
 - 🛠️ **Builder** — Python projects, Pine Script indicators, Windows automation tools
 - 📊 **Finance Tech** — TradingView indicators, financial analytics, data-driven tools
-- 📜 **Certified** — Forage simulations from JP Morgan, BCG, Deloitte, Tata, Wells Fargo
+- 📜 **Certified** — Forage simulations from JP Morgan, BCG, Deloitte, Tata, Wells Fargo 
 
 ---
 

@@ -1,18 +1,8 @@
-# Hey, I'm Kavya Baghel 👋
+# Hi, I'm Kavya Baghel 👋
 
-**BCA Student — AI & ML | Trader | Builder**
+**BCA Student — AI & ML | Python Developer | Pine Script Developer**
 
-> I build trading tools, Pine Script indicators, and AI-powered systems.  
-> I also trade XAUUSD actively using an ICT-based liquidity reversal model.
-
----
-
-## 🧠 What I Do
-
-- 📈 **Active Trader** — XAUUSD on 3M/5M | ICT liquidity model | Funded account
-- 🤖 **AI/ML Student** — BCA specializing in Artificial Intelligence & Machine Learning
-- 🛠️ **Builder** — Pine Script indicators, trading automation, Python tools
-- 📖 **Learner** — Currently reading *Trading in the Zone* by Mark Douglas
+> Building AI-powered tools, automation workflows, and finance-focused software.
 
 ---
 
@@ -20,39 +10,23 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| **Krishna Zones PRO** | Advanced ICT order block & liquidity zone indicator with FVG, session filters, and auto-grading | Pine Script v5 |
-| **Trading Journal** | AI-powered trade logging, performance analytics, and pattern recognition | Python, Streamlit |
-| **Clap Trading Launcher** | Opens full trading workspace via clap gestures — microphone-based Windows automation | Python, PowerShell |
+| **Journall** | AI-powered trading journal — trade logging, performance analytics, win/loss analysis | Python, Streamlit, Pandas |
+| **Clap Trading Launcher** | Opens a full workspace via clap gestures — microphone-based Windows automation | Python, PowerShell |
+| **Financial Portfolio Management** | Portfolio tracking, asset allocation, and financial analytics system | Python, Java |
+| **Pine Script Indicators** | Custom TradingView indicators — order blocks, liquidity zones, FVG detection, session filters | Pine Script v5 |
+| **Movie Recommendation System** | ML-based movie recommender using collaborative and content-based filtering | Python, scikit-learn |
+| **Attendance System** | Automated attendance tracking system | Python, Java |
 
 ---
 
 ## ⚙️ Tech Stack
 
 ```
-Languages:   Python  |  Pine Script  |  Java  |  SQL
-Tools:       TradingView  |  VS Code  |  Git  |  Obsidian
-Libraries:   Pandas  |  NumPy  |  Matplotlib  |  Streamlit
+Languages:   Python  |  Java  |  Pine Script  |  SQL  |  PowerShell
+Tools:       TradingView  |  VS Code  |  Git  |  Streamlit
+Libraries:   Pandas  |  NumPy  |  Matplotlib  |  scikit-learn
 Learning:    Machine Learning  |  Deep Learning  |  Data Analytics
 ```
-
----
-
-## 📊 Trading Setup
-
-- **Instrument:** XAUUSD (Gold)
-- **Timeframes:** 1H bias → 5M/3M entry
-- **Model:** ICT — Liquidity sweep → BOS/MSS → OB/FVG entry
-- **Account:** Funded (Phase 1)
-- **Edge:** Liquidity reversal + order block rejection + volume confirmation
-
----
-
-## 📌 Currently
-
-- 🔧 Refining **Krishna Zones PRO** Pine Script indicator
-- 📚 Active reading: *Trading in the Zone* — Mark Douglas
-- 🎯 Target: Consistent execution > more setups
-- 🏫 BCA Year 2 | CGPA 7.95+
 
 ---
 
@@ -62,4 +36,4 @@ Learning:    Machine Learning  |  Deep Learning  |  Data Analytics
 
 ---
 
-*"Discipline over excitement. Process over outcome."*
+*Open to internships and collaborations.*

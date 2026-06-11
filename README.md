@@ -6,16 +6,23 @@
 
 ---
 
+## 🧠 What I Do
+
+- 🤖 **AI/ML Student** — BCA specializing in Artificial Intelligence & Machine Learning at Sharda University
+- 🛠️ **Builder** — Python projects, Pine Script indicators, Windows automation tools
+- 📊 **Finance Tech** — TradingView indicators, financial analytics, data-driven tools
+- 📜 **Certified** — Forage simulations from JP Morgan, BCG, Deloitte, Tata, Wells Fargo
+
+---
+
 ## 🔨 Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| **Journall** | AI-powered trading journal — trade logging, performance analytics, win/loss analysis | Python, JS, HTML, CSS |
+| **Journall** | AI-powered analytics journal with Ollama LLM integration — logs data, tracks metrics, generates performance reports | Python, Ollama, SQLite |
 | **Clap Trading Launcher** | Opens a full workspace via clap gestures — microphone-based Windows automation | Python, PowerShell |
-| **Financial Portfolio Management** | Portfolio tracking, asset allocation, and financial analytics system | Java, Maven, OOP |
 | **Pine Script Indicators** | Custom TradingView indicators — order blocks, liquidity zones, FVG detection, session filters | Pine Script v5 |
-| **Movie Recommendation System** | ML-based movie recommender using collaborative and content-based filtering | Python, scikit-learn |
-| **Attendance System** | Automated attendance tracking system | Python, Java |
+| **Financial Portfolio Management** | Backend domain model for advisors, clients, portfolios, and investment securities | Java, Maven, OOP |
 
 ---
 
@@ -26,21 +33,21 @@ Languages:      Python  |  Java  |  Pine Script  |  SQL  |  JavaScript  |  HTML/
 AI & ML:        Machine Learning  |  Artificial Intelligence  |  Statistical Data Analysis
 Data:           NumPy  |  Pandas  |  Data Analysis  |  Data Visualization  |  EDA
 Engineering:    OOP  |  Data Structures  |  Algorithms  |  Database Design  |  DBMS
-Automation:     PowerShell  |  Gesture Recognition  |  Audio Processing  |  Workflow Automation
-Tools:          Git  |  GitHub  |  Maven  |  Spring Framework  |  VS Code
+Automation:     PowerShell  |  Gesture Recognition  |  Audio Processing
+Tools:          Git  |  GitHub  |  Maven  |  VS Code  |  TradingView
 ```
 
 ---
 
 ## 🏅 Certifications
 
-| Certificate | Issuer | Focus |
-|------------|--------|-------|
-| **Data Science Job Simulation** | BCG (Forage) | EDA, Hypothesis Testing, Mathematical Modeling |
-| **Quantitative Research Job Simulation** | J.P. Morgan (Forage) | Statistics, Credit Analysis, Algorithm Development |
-| **Data Analytics Job Simulation** | Deloitte Australia (Forage) | Data Visualization, Log Analysis, Spreadsheets |
-| **Cybersecurity Analyst Job Simulation** | Tata (Forage) | IAM, Solution Architecture, Security Strategy |
-| **Software Engineering Job Simulation** | Wells Fargo (Forage) | Java, Spring Framework, Database Design |
+| Certificate | Issuer |
+|------------|--------|
+| Quantitative Research Job Simulation | J.P. Morgan (Forage) |
+| Data Science Job Simulation | BCG (Forage) |
+| Data Analytics Job Simulation | Deloitte Australia (Forage) |
+| Cybersecurity Analyst Job Simulation | Tata (Forage) |
+| Software Engineering Job Simulation | Wells Fargo (Forage) |
 
 ---
 

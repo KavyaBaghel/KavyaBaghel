@@ -9,7 +9,6 @@
 ## 🧠 About Me
 
 - 🎓 **Sharda University** — BCA specializing in AI & ML | CGPA 7.96 | 5th Semester
-- 📊 **Active XAUUSD trader** using ICT methodology — my projects are built from live trading data, not textbook exercises
 - 🤖 **LLM integration** — built a local AI coaching system using Ollama before most people knew what Ollama was
 - 🏆 **6 Forage job simulations** completed across JP Morgan, BCG X (×2), Deloitte, Tata, and Wells Fargo
 
